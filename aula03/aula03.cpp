@@ -10,5 +10,6 @@ int main(){
 s=a+b;
 
 cout<<s<<"\n";
+return 0;
 	
 }
