@@ -1,2 +1,2 @@
 # Algoritmos
-Curso de algoritmos
+ ## Curso de algoritmos
