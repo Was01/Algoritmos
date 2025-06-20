@@ -1,0 +1,1 @@
+## Algoritmo de pesquisa binária
